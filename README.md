@@ -19,7 +19,7 @@ A FastAPI-based REST API for uploading and processing documents for a RAG system
 * PyPDF
 
 ## Run Qdrant
-http://localhost:6333
+`http://localhost:6333`
 
 ## Run the API
 
